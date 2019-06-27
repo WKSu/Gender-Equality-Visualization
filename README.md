@@ -6,3 +6,6 @@ We used several libraries as will be shown throughout the notebook, and tried to
 
 The scientific contribution of this project is to gain more understanding of mechanisms of human prosperity, by analyzing the causal relations between gender equality and other SDGs. 
 The societal contribution is to help policymakers in the achievement of gender equality with the information on these causal relations.
+
+This notebook is made by: Brennen Bouwmeester, Batoul Mesdaghi, Kevin Su
+
